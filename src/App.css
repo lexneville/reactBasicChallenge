@@ -1,0 +1,40 @@
+.page {
+  display: flex;
+  flex-direction: column;
+  background-color: aqua;
+  margin:100px 100px;
+}
+
+.longReads {
+  display: flex;
+  flex-direction: row;
+}
+
+.newsBeat {
+  display: flex;
+  flex-direction: row;
+}
+
+.post {
+  width:220px;
+  margin: 14px;
+  display: flex;
+  flex-direction: column; 
+  background-color: white; 
+}
+
+.description {
+  font-size: 20px;
+}
+
+.category {
+  font-size: 16px;
+}
+
+.image {
+  width:220px;
+}
+
+
+
+
