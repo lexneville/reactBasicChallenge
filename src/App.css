@@ -1,23 +1,23 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 .page {
   display: flex;
   flex-direction: column;
-  background-color: aqua;
-  margin:100px 100px;
+  margin:50px 70px;
 }
 
-.longReads {
-  display: flex;
-  flex-direction: row;
-}
-
-.newsBeat {
+.newsBeat, .longReads {
   display: flex;
   flex-direction: row;
 }
 
 .post {
   width:220px;
-  margin: 14px;
+  margin: 20px;
   display: flex;
   flex-direction: column; 
   background-color: white; 
@@ -32,9 +32,27 @@
 }
 
 .image {
-  width:220px;
+  width:240px;
 }
 
+.titleWrapper {
+  display: flex;
+  justify-content: space-between;
+  padding-left: 20px
 
+}
 
+.horiRule {
+  width: 900px;
+  background-color:  black;
+}
+
+.horiWrap {
+  justify-items: center;
+  padding-top: 20px;
+}
+ 
+.seeAll {
+  font-size: 30px;
+}
 

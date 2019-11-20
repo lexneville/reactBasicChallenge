@@ -7,9 +7,6 @@ export default function Post(props) {
                 <img class="image" src={props.image}  alt="missing image"/>
                 <h1 class="description"> {props.description}</h1>
             </div>
-            <div class="postBottom">
-                <h3 class="category"> {props.category}</h3>
-            </div>    
         </div>
     )
 }
