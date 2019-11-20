@@ -30,11 +30,11 @@ class App extends React.Component {
         </div>
 
         <div class="longReads">
-          <Post description="Crocodile with weird snout found in puddle." image={gharial}/>
-          <Post description="Pink octopus goes extinct after last individual dragged through street." image={extinct}/>
-          <Post description="Man found innocent of deep frying wife." image={chippydeath}/>
-          <Post description="People of Sydney all get caned at same time." image={smoke}/>
-          <Post description="Runner guy runs a long way." image={kipchoge}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={gharial}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={extinct}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={chippydeath}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={smoke}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={kipchoge}/>
         </div>
 
         <div class="titleWrapper">
@@ -50,11 +50,11 @@ class App extends React.Component {
         </div>
 
         <div class="newsBeat">
-          <Post description="Taylor Swift's tailor arrested for tailing Swift, swiftly." image={swift}/>
-          <Post description="Kylie Jenner get's pissed off that she is not 'THE' Kylie we were all thinking of." image={kylie}/>
-          <Post description="Russia has a rocket pinched by stray dogs assisted by Pussy Riot" image={rocket}/>
-          <Post description="Poop no longer to stick to toilet bowl in new coating shocker!" image={toilet}/>
-          <Post description="Two guy's released by the Taliban are 'Well up for a bevvy'." image={talibanhostages}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={swift}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={kylie}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={rocket}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={toilet}/>
+          <Post description="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua." image={talibanhostages}/>
         </div>
 
       </div>
